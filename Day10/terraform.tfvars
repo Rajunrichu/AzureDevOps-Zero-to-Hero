@@ -1,2 +1,2 @@
-location = "South India"
+location = "Central India"
 prefix = "demoraj"
